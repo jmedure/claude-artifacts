@@ -1,7 +1,14 @@
 {
   "name": "claude-artifacts",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "A local viewer for saving and browsing interactive artifacts from Claude, ChatGPT, and other AI assistants",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobmedure/claude-artifacts.git"
+  },
+  "keywords": ["claude", "artifacts", "ai", "react", "nextjs", "viewer"],
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
