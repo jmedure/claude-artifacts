@@ -1,5 +1,7 @@
 # Claude Artifacts Viewer
 
+![Claude Artifacts — drag JSX files from the cloud to your local folder](public/hero.png)
+
 A simple local app for saving and viewing the interactive apps, tools, and visualizations that AI assistants like Claude, ChatGPT, and others generate during conversations.
 
 You know those little apps that pop up in the chat window — calculators, charts, games, dashboards? Normally they disappear when you close the conversation. This project gives them a permanent home on your computer.
